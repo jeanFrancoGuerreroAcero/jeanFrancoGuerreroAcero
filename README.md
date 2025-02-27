@@ -12,6 +12,8 @@ Me considero una persona que aprende rapido y mejoro continuamente, y estoy abie
 - HTML 5 
 - CCS3
 - Python
+- JavaScript
+- Java
 
 ### Diseño 
 - figma 
