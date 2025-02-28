@@ -1,14 +1,14 @@
-## Hola soy jean franco guerrero acero👋
+## Hola soy Jean Franco Guerrero Acero👋
 
-Mi nombre es jean franco guerrero acero, me gusta lo relacionado con la tecnologia
+Me gusta lo relacionado con la tecnología
 
-Me considero una persona que aprende rapido y mejoro continuamente, y estoy abierto a aprender cosas nuevas 
-- 🤔 tengo 18 años 
-- 🔭 actualmente estoy estudiando en Campuslands 
-- 🌱 Tengo proyeccion a Ruta java 
-- 📫 como contactarme: janfra.2006@gmail.com 
+Me considero una persona que aprende rápido y mejoro continuamente, estoy abierto a aprender cosas nuevas 
+- 🤔 Tengo 18 años 
+- 🔭 Actualmente estoy estudiando en Campuslands 
+- 🌱 Tengo proyección a Ruta java 
+- 📫 Como contactarme: janfra.2006@gmail.com 
 
-### Idiomas 
+### Lenguajes 
 - HTML 5 
 - CCS3
 - Python
